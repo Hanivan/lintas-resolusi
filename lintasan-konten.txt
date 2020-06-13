@@ -1,0 +1,9 @@
+RENCANA KONTEN LINTASAN VIDEO
+
+- Linux
+- HTML
+  * Membuat website sederhana
+- CSS
+  * Menghias website sederhana
+- Membuat intro baru
+- Menambahkan audio visual kedalam video
