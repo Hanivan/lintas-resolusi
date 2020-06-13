@@ -3,8 +3,11 @@ RENCANA KONTEN LINTASAN VIDEO
 - Linux Dasar
 - HTML Dasar
   * Membuat website sederhana
+  * Membuat Landing Page atau Portfolio
 - CSS Dasar
   * Menghias website sederhana
+  * Pseudo Class
+  * CSS Inheritance
 - Javascript Dasar
 - Membuat intro baru
 - Menambahkan audio visual kedalam video
