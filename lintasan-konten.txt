@@ -1,9 +1,10 @@
 RENCANA KONTEN LINTASAN VIDEO
 
-- Linux
-- HTML
+- Linux Dasar
+- HTML Dasar
   * Membuat website sederhana
-- CSS
+- CSS Dasar
   * Menghias website sederhana
+- Javascript Dasar
 - Membuat intro baru
 - Menambahkan audio visual kedalam video
